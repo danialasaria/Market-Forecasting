@@ -1,4 +1,4 @@
-# Stock-Market-Prediction-ML
+# Market Forecasting
 
 A machine learning model to predict the movement of the S&P500 stock market index (as of 5/30/22) 
 
